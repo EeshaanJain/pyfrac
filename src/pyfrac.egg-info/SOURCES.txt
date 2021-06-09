@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+src/pyfrac.py
+src/pyfrac.egg-info/PKG-INFO
+src/pyfrac.egg-info/SOURCES.txt
+src/pyfrac.egg-info/dependency_links.txt
+src/pyfrac.egg-info/requires.txt
+src/pyfrac.egg-info/top_level.txt

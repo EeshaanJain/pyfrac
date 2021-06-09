@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pyfrac
+Version: 0.0.1
+Summary: A python package to work with fractions
+Home-page: https://github.com/EeshaanJain/pyfrac
+Author: Eeshaan Jain
+Author-email: jaineeshaan17@gmail.com
+License: UNKNOWN
+Description: # pyfrac
+        A python library to work with Fractions
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Provides-Extra: dev
