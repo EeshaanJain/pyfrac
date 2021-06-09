@@ -1,7 +1,16 @@
+LICENSE
 LICENSE.txt
+MANIFEST.in
 README.md
 setup.py
+test_pyfrac.py
+__pycache__/utils.cpython-39.pyc
+dist/pyfrac-0.0.1-py3-none-any.whl
+dist/pyfrac-0.0.1.tar.gz
 src/pyfrac.py
+src/__pycache__/fraction.cpython-39.pyc
+src/__pycache__/pyfrac.cpython-39.pyc
+src/__pycache__/test_pyfrac.cpython-39-pytest-6.2.4.pyc
 src/pyfrac.egg-info/PKG-INFO
 src/pyfrac.egg-info/SOURCES.txt
 src/pyfrac.egg-info/dependency_links.txt
